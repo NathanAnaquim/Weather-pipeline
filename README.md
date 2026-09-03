@@ -84,12 +84,5 @@ Tarefas do Windows**, através do script `run_pipeline.bat`.
    python load_to_mysql.py
    ```
 
-## 📈 Possíveis evoluções
-
-- Migrar a carga de MySQL local para um data warehouse em nuvem (BigQuery/Redshift)
-- Orquestrar as etapas com Apache Airflow em vez do Agendador de Tarefas
-- Adicionar testes automatizados para as regras de transformação
-
----
 
 Desenvolvido por [Nathan Anaquim Procaccia](https://www.linkedin.com/in/nathan-anaquim-procaccia-8a8420277/)
