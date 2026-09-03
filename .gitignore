@@ -1,0 +1,18 @@
+# Ambiente virtual
+venv/
+
+# Variáveis de ambiente (contém a chave de API e senha do banco)
+.env
+
+# Dados gerados pelo pipeline (não precisam ir pro repositório)
+raw/
+processed/
+pipeline_log.txt
+weather.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
